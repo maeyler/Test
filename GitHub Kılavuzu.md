@@ -26,7 +26,7 @@ Bir dal üstünde yeteri kadar çalışıp doğru işlediği görülünce, o dal
 
 Karmaşık HTML sayfalarını basitleştiren [MD formatını](https://guides.github.com/features/mastering-markdown/#examples) on dakikada öğrenmek ister misiniz? GitHub'da bu formatı kullanmak şart değil ama bunun gibi sayfaları düz metin gibi kolayca yazabilirsiniz.
 
-![örnekler sayfası](images/examples.PNG)
+![örnekler sayfası](examples.PNG)
 
 Markdown denemeleriniz için [bir çevirmen](http://dillinger.io/) yararlı olacak
 
